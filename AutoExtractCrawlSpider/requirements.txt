@@ -80,7 +80,7 @@ kombu==4.2.1
 lazy-object-proxy==1.4.3
 live-server==0.9.9
 loguru==0.4.1
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mpmath==1.1.0
