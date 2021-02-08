@@ -62,7 +62,7 @@ git-review==1.0
 greenlet==0.4.15
 hiredis==1.0.1
 html-similarity==0.3.2
-httplib2==0.9.2
+httplib2==0.19.0
 hyperlink==19.0.0
 idna==2.7
 incremental==17.5.0
