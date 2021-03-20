@@ -75,7 +75,7 @@ jdcal==1.4
 jedi==0.13.1
 jieba==0.39
 jieba3k==0.35.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.2.1
 lazy-object-proxy==1.4.3
 live-server==0.9.9
