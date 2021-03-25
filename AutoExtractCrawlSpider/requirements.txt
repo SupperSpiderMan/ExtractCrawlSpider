@@ -128,7 +128,7 @@ python-Levenshtein==0.12.0
 python-scrapyd-api==2.1.2
 pytz==2018.5
 pyxDamerauLevenshtein==1.5.3
-PyYAML==3.13
+PyYAML==5.4
 qiniu==7.2.4
 QQLoginTool==0.3.0
 queuelib==1.5.0
