@@ -9,7 +9,7 @@ asn1crypto==0.24.0
 astroid==2.3.3
 async-timeout==3.0.1
 attrs==19.3.0
-autobahn==20.2.2
+autobahn==20.12.3
 Automat==20.2.0
 backcall==0.1.0
 beautifulsoup4==4.7.0
