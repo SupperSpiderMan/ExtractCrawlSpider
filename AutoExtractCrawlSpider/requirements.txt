@@ -169,7 +169,7 @@ watchdog==0.9.0
 wcwidth==0.1.7
 websocket==0.2.1
 websocket-client==0.56.0
-websockets==8.1
+websockets==9.1
 wechatpy==1.8.2
 win32-setctime==1.0.1
 wrapt==1.11.2
