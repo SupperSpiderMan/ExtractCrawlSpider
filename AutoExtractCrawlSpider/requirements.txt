@@ -140,7 +140,7 @@ schedule==0.6.0
 Scrapy==2.0.1
 scrapy-puppeteer==0.0.1b0
 scrapy-redis==0.6.8
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 service-identity==18.1.0
 simplegeneric==0.8.1
 six==1.14.0
