@@ -14,7 +14,7 @@ Automat==20.2.0
 backcall==0.1.0
 beautifulsoup4==4.7.0
 billiard==3.5.0.4
-celery==4.2.1
+celery==5.2.2
 certifi==2018.10.15
 cffi==1.11.5
 channels==2.3.0
