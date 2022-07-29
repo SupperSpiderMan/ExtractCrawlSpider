@@ -137,7 +137,7 @@ redis==2.10.5
 requests==2.20.0
 requests-file==1.4.3
 schedule==0.6.0
-Scrapy==2.0.1
+Scrapy==2.6.2
 scrapy-puppeteer==0.0.1b0
 scrapy-redis==0.6.8
 scrapy-splash==0.7.2
